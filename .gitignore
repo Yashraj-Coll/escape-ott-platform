@@ -1,0 +1,45 @@
+# Compiled class files
+*.class
+
+# Package files
+*.war
+*.ear
+
+# Build directories
+build/
+target/
+dist/
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+.metadata/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Log files
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+*.tmp
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
