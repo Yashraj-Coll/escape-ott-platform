@@ -43,3 +43,9 @@ Thumbs.db
 .mvn/
 mvnw
 mvnw.cmd
+
+# Large media files
+src/main/webapp/videos/
+src/main/webapp/images/
+videos/
+images/
